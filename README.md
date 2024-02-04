@@ -21,4 +21,7 @@ Skills and programing languages I'm profficient in:
 * [Ascii code lookup table](https://github.com/JusufS12/asciiCodeLookup), written in Python
 ---
 
+### My github stats
 ![Josip's GitHub stats](https://github-readme-stats.vercel.app/api?username=JusufS12&show_icons=true&theme=transparent)
+
+---
