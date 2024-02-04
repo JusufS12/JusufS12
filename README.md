@@ -3,7 +3,6 @@
 ## Hello there 👋
 
 My name is Josip, I'm a junior dev.
----
 
 ### Skills
 Skills and programing languages I'm profficient in:
@@ -11,6 +10,7 @@ Skills and programing languages I'm profficient in:
 * Python
 * Java
 * JavaScript
+---
 
 ### Cool projects
 * [Matrix transponator](https://github.com/JusufS12/transponatorMatrica), written in C
