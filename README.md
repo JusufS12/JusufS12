@@ -8,10 +8,10 @@ My name is Josip, I'm a junior dev.
 
 ### Skills
 Skills and programing languages I'm profficient in:
-* C
-* C++
+* C/C++
 * Python
 * Java
+* Bash
 ---
 
 ### Cool projects
