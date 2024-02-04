@@ -3,6 +3,7 @@
 ## Hello there 👋
 
 My name is Josip, I'm a junior dev.
+
 ---
 
 ### Skills
