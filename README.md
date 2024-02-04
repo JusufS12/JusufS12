@@ -1,6 +1,6 @@
-# Josip Sikirić
+## Josip Sikirić
 
-## Hello there 👋
+### Hello there 👋
 
 My name is Josip, I'm a junior dev.
 
