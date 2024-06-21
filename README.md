@@ -1,6 +1,3 @@
-![Hello World](https://github.com/JusufS12/JusufS12/blob/main/HelloWorld.png)
-
----
 ## Josip Sikirić
 My name is Josip, I'm a junior dev.
 
